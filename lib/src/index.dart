@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:portfolioapp/src/screens/dashboard/index.dart';
 import 'package:portfolioapp/styles/colors.dart';
 
-class YKPortfolio extends StatelessWidget {
-  const YKPortfolio({super.key});
+class FinancyApp extends StatelessWidget {
+  const FinancyApp({super.key});
 
   // This widget is the root of your application.
   @override
